@@ -1,4 +1,4 @@
-# 🏪 Coimbatore Student Business Directory
+<img width="1325" height="774" alt="Screenshot 2025-11-30 at 9 39 58 PM" src="https://github.com/user-attachments/assets/579cb367-195c-4493-ac86-53bc8953ba26" /># 🏪 Coimbatore Student Business Directory
 
 > Discover local businesses and student-friendly services near colleges and schools in Coimbatore
 
@@ -12,13 +12,14 @@
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](https://via.placeholder.com/800x400/FF6B35/FFFFFF?text=Homepage+Screenshot)
+![Homepage
+
+<img width="1325" height="774" alt="homepage" src="https://github.com/user-attachments/assets/54332507-8fa3-4c27-af92-25c9ce118c25" />
 
 ### Business Directory
-![Business Directory](https://via.placeholder.com/800x400/28A745/FFFFFF?text=Business+Directory+Screenshot)
 
-### Map View
-![Map View](https://via.placeholder.com/800x400/007BFF/FFFFFF?text=Map+View+Screenshot)
+<img width="1346" height="813" alt="buisness deirectory" src="https://github.com/user-attachments/assets/2f4d9054-c4a4-45e8-8f12-1d8467e8b8da" />
+
 
 ## ✨ Features
 
