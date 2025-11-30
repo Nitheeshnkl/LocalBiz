@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work* - [Your GitHub](https://github.com/yourusername)
+- NITHEESH VELLAIYAN
 
 ## 🙏 Acknowledgments
 
@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or need help:
 
 - Open an issue on GitHub
-- Contact: your.email@example.com
+- Contact: nitheesh.codes@gmail.com
 
 ---
 
